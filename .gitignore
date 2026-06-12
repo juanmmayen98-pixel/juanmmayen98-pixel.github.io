@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos originales HEIC (no necesarios en el repo)
+*.HEIC
+*.heic
+
+# Archivos de sistema
+Thumbs.db
+Desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
