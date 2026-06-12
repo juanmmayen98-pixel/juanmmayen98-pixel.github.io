@@ -52,7 +52,7 @@
       "contact.email.text": "O escríbeme a:",
 
       "fab.label": "Contactar",
-      "footer.tagline": "Diseñado para la era digital con precisión y elegancia.",
+      "footer.tagline": "Cada proyecto es una oportunidad de hacer algo bien hecho.",
 
       "menu.open": "Abrir menú de navegación",
       "menu.close": "Cerrar menú de navegación",
@@ -104,7 +104,7 @@
       "contact.email.text": "Or reach me at:",
 
       "fab.label": "Contact",
-      "footer.tagline": "Designed for the digital era with precision and elegance.",
+      "footer.tagline": "Every project is an opportunity to do something right.",
 
       "menu.open": "Open navigation menu",
       "menu.close": "Close navigation menu",
